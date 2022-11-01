@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "database-url": "mongodb+srv://Robinson:Cindy2022@cluster0.wixxz28.mongodb.net/bd-registro?retryWrites=true&w=majority",
+  "database-name": "bd-registro"
+
+}
