@@ -6,7 +6,7 @@ import json
 from waitress import serve
 
 from Controladores.Controladorestudiante import Controladorestudiante
-from Controladores.Controladordepartamento import Controladordepartamento
+from Controladores.Controladordepartamentoss import Controladordepartamento
 from Controladores.Controladormateria import Controladormateria
 from Controladores.Controladorinscripcion import Controladorinscripcion
 import pymongo
