@@ -1,5 +1,3 @@
-from Repositorios.Interfaces import Interfaces
-from Modelos.Materia import Materia
-
-class RepositorioMateria(Interfaces[Materia]):
+from Modelos.ModeloAbstracto import ModeloAbstracto
+class Resultado(ModeloAbstracto):
     pass
