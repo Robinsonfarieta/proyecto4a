@@ -1,3 +1,3 @@
 from Modelos.ModeloAbs import ModeloAbs
-class Estudiante(ModeloAbs):
+class Partidos(ModeloAbs):
     pass
