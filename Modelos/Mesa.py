@@ -1,3 +1,4 @@
 from Modelos.ModeloAbs import ModeloAbs
-class Departamento(ModeloAbs):
+
+class Mesa(ModeloAbs):
     pass
